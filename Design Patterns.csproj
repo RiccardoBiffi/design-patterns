@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Design_Patterns</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behavioral\" />
+    <Folder Include="Creational\" />
+  </ItemGroup>
+
+</Project>
