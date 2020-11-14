@@ -1,2 +1,2 @@
-# hello-world
-Test repository. Vediamo se è effettivamente utile anche da usare da solo.
+# design-patterns
+Repository dove mettere in pratica e consolidare i design pattern.
